@@ -11,4 +11,8 @@ How to use:
 
 -Use the toggle button to set your preference
 
--Reboot!
+-Reboot and enjoy!
+
+![snap0000014](https://github.com/user-attachments/assets/c1a77c0b-b266-4648-b0bd-68d0c0a498bc)
+
+![snap0000015](https://github.com/user-attachments/assets/470c1313-85a0-49da-8b24-517cd5fcd158)
