@@ -1,4 +1,4 @@
-# Lenovo-Fn-Ctrl-Swapper
+# Lenovo_Fn-Ctrl_Swapper
 Application to swap the Fn and Ctrl keys on Lenovo Thinkpad
 
 Tested on Lenovo Thinkpad L15 G4
